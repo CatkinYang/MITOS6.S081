@@ -135,6 +135,10 @@ UPROGS=\
 	$U/_sleep\
 	$U/_pingpong\
 	$U/_pingpong1\
+	$U/_primes\
+	$U/_primes1\
+	$U/_find\
+	$U/_xargs\
 
 fs.img: mkfs/mkfs README $(UPROGS)
 	mkfs/mkfs fs.img README $(UPROGS)
