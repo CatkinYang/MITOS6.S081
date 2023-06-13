@@ -134,6 +134,7 @@ UPROGS=\
 	$U/_zombie\
 	$U/_sleep\
 	$U/_pingpong\
+	$U/_pingpongtest\
 	$U/_pingpong1\
 	$U/_primes\
 	$U/_primes1\
